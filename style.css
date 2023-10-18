@@ -1,0 +1,125 @@
+body{
+    background-color: #e0dada;
+}
+/* HEADER IMG */
+.header-img{
+    width: 70px;
+    height: 70px;
+    object-fit: contain;
+    margin-left: 250px;
+}
+
+/* HEADER */
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: goldenrod;
+    padding: 15px 0;
+}
+
+/* MAIN */
+main{
+    padding: 10px 10px ;
+}
+
+.about-website p{
+    color: black;
+    font-size: 18px;
+    
+}
+.about-website h1{
+    color: black;
+    font-size: 22px;
+    
+}
+.about-website p span{
+    color: goldenrod;
+
+}
+.for-button1{
+    display: flex;
+    justify-content: end;
+    padding: 35px 0;
+    
+}
+.for-button1 button{
+    padding: 5px 5px;
+    background-color: red;
+    color: white;
+    margin-right: 30px;
+    
+}
+
+.header-text h1{
+    margin-left: 25px;
+    
+}
+.section-img-about1{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 0;
+}
+.section-img-about1 section p{
+    width: 250px;
+    
+}
+.section-img-about1 section h3{
+    color: orange;
+    
+}
+.section-img-about2{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 0;
+}
+.section-img-about2 section p{
+    width: 250px;
+    
+}
+.section-img-about2 section h3{
+    color: orange;
+    
+}
+
+.section-button{
+    display: flex;
+    justify-content: end;
+    padding: 35px 0;
+}
+.section-button button{
+    padding: 5px 5px;
+    background-color: red;
+    color: white;
+    margin-right: 30px;
+}
+
+/* MAIN TEXT */
+.main-text{
+    display: flex;
+    justify-content: space-around;
+    background-color: goldenrod;
+
+}
+
+/* FOOTER */
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(150, 121, 49);
+    height: auto;
+}
+.footer-section2{
+    padding: 5px 10px;
+}
+
+.nav-2{
+    padding: 0 15px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+    margin: 0 10px;
+}
